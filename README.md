@@ -12,11 +12,10 @@
 
 ---
 
-
 ### 🎵 Şu An Ne Dinliyorum?
 <p align="center">
   <a href="https://open.spotify.com/user/312h4q2fxt52skvef3o33is32g4y">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=312h4q2fxt52skvef3o33is32g4y&cover_image=true&theme=compact" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=312h4q2fxt52skvef3o33is32g4y&cover_image=true&theme=dark&show_offline=true" alt="Spotify Now Playing" />
   </a>
 </p>
 

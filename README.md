@@ -16,26 +16,28 @@
 
 ### 🛠️ Teknik Yetkinlikler & Araçlar
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,solidworks,autocad,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,visualstudio,linux,github" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Industrial_Automation-FFD700?style=flat-square&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/PLC_Programming-005C99?style=flat-square&logo=codementor&logoColor=white" />
   <img src="https://img.shields.io/badge/Electrical_Maintenance-FF0000?style=flat-square&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-DA1F26?style=flat-square&logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-E52424?style=flat-square&logo=autodesk&logoColor=white" />
 </p>
 
 ---
 
 ### 🧪 Koku Kültürü & Parfümeri
-> Teknik disiplini duyusal analizle birleştiriyorum. [cite_start]Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine derinlemesine çalışmalar yapıyorum. [cite: 177]
+> Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine derinlemesine çalışmalar yapıyorum. 
 
 ---
 
 ### 🚀 Nelerle Uğraşıyorum?
-- [cite_start]🏭 **Endüstriyel Otomasyon:** Saha tecrübesi ve pano montajı. [cite: 144]
+- 🏭 **Endüstriyel Otomasyon:** Saha tecrübesi ve pano montajı.
 - 🤖 **Mekatronik:** Robotik sistemler ve akıllı mekanizmalar.
-- [cite_start]🧪 **Dökümantasyon:** Parfüm dökümanlarımı dijital bir rehber haline getiriyorum. [cite: 127]
+- 🧪 **Dökümantasyon:** Parfüm dökümanlarımı dijital bir rehber haline getiriyorum.
 
 ---
 

@@ -61,21 +61,7 @@
 </p>
 ---
 
----
-
----
-
----
-
-### ♟️ Stockfish Bot'a Karşı Oyna!
-Profilime giren herkes beyaz taşlarla hamle yapabilir. Siyah taşları **Stockfish Engine** yönetecek.
-
+### 🐍 My GitHub Contribution Snake
 <p align="center">
-  <a href="https://github.com/Notoriety19/Notoriety19/issues/new?title=Chess%3A%20Move%20%5BMOVE_HERE%5D&body=Hamle%20yapmak%20i%C3%A7in%20sadece%20%27Submit%20new%20issue%27%20butonuna%20bas%C4%B1n.">
-    <img src="https://chess-board.fly.dev/api/view?username=Notoriety19" alt="Satranç Tahtası" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Hamle yapmak için beyaz bir taşa ve gitmek istediğin kareye tıkla, açılan sayfada "Submit new issue" de!</i>
+  <img src="https://raw.githubusercontent.com/Notoriety19/Notoriety19/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>

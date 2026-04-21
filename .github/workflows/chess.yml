@@ -11,8 +11,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
-      - name: Play Chess (Bot Mode)
-        uses: marcizhu/github-chess@v1.2.0
+      - name: Play Chess
+        uses: marcizhu/github-chess@v1.2.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           chess_bot: true

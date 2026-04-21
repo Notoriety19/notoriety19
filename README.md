@@ -48,7 +48,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Counter--Strike-Faceit_Level_10-DE963D?style=for-the-badge&logo=counter-strike&logoColor=white" />
   <img src="https://img.shields.io/badge/Elo-2200+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Valorant-Immortal_Aim-FF4655?style=for-the-badge&logo=valorant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Valorant-Immortal-FF4655?style=for-the-badge&logo=valorant&logoColor=white" />
 </p>
 ### 📊 GitHub İstatistiklerim
 <p align="center">

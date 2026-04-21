@@ -14,15 +14,33 @@
 
 ---
 
+### 🎧 Şu An Ne Dinliyorum?
+<p align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://novatorem-spotify-public-api.vercel.app/api/run?user=YOUR_SPOTIFY_ID" alt="Spotify" />
+  </a>
+</p>
+
+---
+
+### 💻 Setup & Gear
+| Equipment | Model / Settings |
+| :--- | :--- |
+| **Mouse** | 1600 DPI / 0.130 Sens (Valorant Optimized) |
+| **Focus** | Industrial Automation & Mechatronics |
+| **Favorite Scent** | Dior Fève Délicieuse |
+| **Education** | Balıkesir University - 2nd Year |
+
+---
+
 ### 🛠️ Teknik Yetkinlikler & Araçlar
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,visualstudio,linux,github" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,visualstudio,linux,github,discord" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Industrial_Automation-FFD700?style=flat-square&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/PLC_Programming-005C99?style=flat-square&logo=codementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electrical_Maintenance-FF0000?style=flat-square&logo=lightning&logoColor=white" />
   <img src="https://img.shields.io/badge/SolidWorks-DA1F26?style=flat-square&logo=dassaultsystemes&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoCAD-E52424?style=flat-square&logo=autodesk&logoColor=white" />
 </p>
@@ -34,20 +52,11 @@
 
 ---
 
-### 🚀 Nelerle Uğraşıyorum?
-- 🏭 **Endüstriyel Otomasyon:** Saha tecrübesi ve pano montajı.
-- 🤖 **Mekatronik:** Robotik sistemler ve akıllı mekanizmalar.
-- 🧪 **Dökümantasyon:** Parfüm dökümanlarımı dijital bir rehber haline getiriyorum.
-
----
-[![Spotify](https://novatorem-spotify-public-api.vercel.app/api/run?user=SPOTIFY_KULLANICI_ADIN)](https://open.spotify.com/user/SPOTIFY_KULLANICI_ADIN)
-### 📈 GitHub İstatistiklerim
+### 📈 İstatistikler & Aktivite
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Notoriety19&show_icons=true&theme=radical&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notoriety19&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
 
-### 📊 Aktivite Grafiği
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Notoriety19&theme=radical&hide_border=true&area=true" width="100%" />
 </p>

@@ -40,7 +40,7 @@
 - 🧪 **Dökümantasyon:** Parfüm dökümanlarımı dijital bir rehber haline getiriyorum.
 
 ---
-
+[![Spotify](https://novatorem-spotify-public-api.vercel.app/api/run?user=SPOTIFY_KULLANICI_ADIN)](https://open.spotify.com/user/SPOTIFY_KULLANICI_ADIN)
 ### 📈 GitHub İstatistiklerim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Notoriety19&show_icons=true&theme=radical&hide_border=true" width="400" />

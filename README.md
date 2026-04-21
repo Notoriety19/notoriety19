@@ -38,6 +38,10 @@
 > "Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine dökümantasyonlar hazırlıyorum."
 
 <p align="left">
+  <img src="https://www.dekantparfum.com.tr/idea/hs/04/myassets/products/520/limmensite.jpg?revision=1775727314" alt="Louis Vuitton L'Immensité" height="80" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Signature_Scent-LV_L'Immensité-000000?style=for-the-badge" />
   <a href="https://www.fragrantica.com/member/2373388">
     <img src="https://img.shields.io/badge/Fragrantica-Koleksiyon-734F33?style=for-the-badge" />
@@ -46,7 +50,7 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim & Analiz
+### 📊 GitHub İstatistiklerim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Notoriety19&show_icons=true&theme=radical&hide_border=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notoriety19&layout=compact&theme=radical&hide_border=true" width="300" />
@@ -64,7 +68,7 @@
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Notoriety19&color=blue&style=flat-square&label=DATA+TRAFFIC" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Notoriety19&base=1250&color=blue&style=flat-square&label=DATA+TRAFFIC" alt="Visitor Counter" />
 </p>
 
 <p align="center">

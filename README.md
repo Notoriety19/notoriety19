@@ -12,14 +12,12 @@
 
 ---
 
-### 🎵 Şu An Ne Dinliyorum?
+### 🎵 Müzik Zevkim
 <p align="center">
   <a href="https://open.spotify.com/user/312h4q2fxt52skvef3o33is32g4y">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=312h4q2fxt52skvef3o33is32g4y&cover_image=true&theme=dark&show_offline=true" alt="Spotify Now Playing" />
+    <img src="https://img.shields.io/badge/Spotify-Beni_Takip_Et-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
----
 
 ---
 
@@ -29,20 +27,19 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Industrial_Automation-FFD700?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/PLC_Programming-005C99?style=flat-square&logo=codementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-DA1F26?style=flat-square&logo=dassaultsystemes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-E52424?style=flat-square&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-Expert-DA1F26?style=flat-square&logo=dassaultsystemes" />
+  <img src="https://img.shields.io/badge/PLC_Programming-S7--1200-005C99?style=flat-square" />
+  <img src="https://img.shields.io/badge/Industrial_IoT-Black?style=flat-square&logo=internet-of-things" />
 </p>
 
 ---
 
 ### 🧪 Koku Kültürü & Parfümeri
-> Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine dökümantasyonlar hazırlıyorum.
+> "Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan ekolünden gelen bir koku hafızası üzerine dökümantasyonlar hazırlıyorum."
 
 ---
 
-### 📈 GitHub İstatistiklerim
+### 📊 GitHub İstatistiklerim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Notoriety19&show_icons=true&theme=radical&hide_border=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notoriety19&layout=compact&theme=radical&hide_border=true" width="300" />
@@ -50,11 +47,11 @@
 
 ---
 
-### 🐍 My GitHub Contribution Snake
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Notoriety19/Notoriety19/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Game" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" />
-</p>
+</p>****

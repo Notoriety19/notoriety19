@@ -12,7 +12,14 @@
 
 ---
 
+### 🎮 Gaming Performance
+<p align="center">
+  <img src="https://img.shields.io/badge/CS2-Faceit_Level_10-DE963D?style=for-the-badge&logo=counter-strike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elo-2200+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Valorant-Ascendant_2-04D8A5?style=for-the-badge&logo=valorant&logoColor=white" />
+</p>
 
+---
 
 ### 🛠️ Teknik Yetkinlikler & Araçlar
 <p align="left">
@@ -38,13 +45,6 @@
 </p>
 
 ---
-### 🎮 Gaming & Competitive Performance
-<p align="center">
-  <img src="https://img.shields.io/badge/CS2-Faceit_Level_10-DE963D?style=for-the-badge&logo=counter-strike&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elo-2200+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Valorant-Ascendant_2-04D8A5?style=for-the-badge&logo=valorant&logoColor=white" />
-</p>
-
 
 ### 📊 GitHub İstatistiklerim
 <p align="center">

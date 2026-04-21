@@ -48,7 +48,10 @@
   </a>
 </p>
 
----
+### 🏆 Başarımlar
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Notoriety19&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
+</p>
 
 ### 📊 GitHub İstatistiklerim
 <p align="center">

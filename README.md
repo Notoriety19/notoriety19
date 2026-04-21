@@ -28,14 +28,14 @@
 ---
 
 ### 🧪 Koku Kültürü & Parfümeri
-> Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine derinlemesine çalışmalar yapıyorum. 
+> Teknik disiplini duyusal analizle birleştiriyorum. [cite_start]Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine derinlemesine çalışmalar yapıyorum. [cite: 177]
 
 ---
 
 ### 🚀 Nelerle Uğraşıyorum?
-- 🏭 **Endüstriyel Otomasyon:** Saha tecrübesi ve pano montajı.
+- [cite_start]🏭 **Endüstriyel Otomasyon:** Saha tecrübesi ve pano montajı. [cite: 144]
 - 🤖 **Mekatronik:** Robotik sistemler ve akıllı mekanizmalar.
-- 🧪 **Dökümantasyon:** Parfüm dökümanlarımı dijital bir rehber haline getiriyorum.
+- [cite_start]🧪 **Dökümantasyon:** Parfüm dökümanlarımı dijital bir rehber haline getiriyorum. [cite: 127]
 
 ---
 
@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notoriety19&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
 
-### 🐍 Aktivite Grafiği
+### 📊 Aktivite Grafiği
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Notoriety19&theme=radical&hide_border=true&area=true" width="100%" />
 </p>

@@ -18,7 +18,9 @@
     <img src="https://img.shields.io/badge/Spotify-Beni_Takip_Et-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
+
 ---
+
 ### 🛠️ Teknik Yetkinlikler & Araçlar
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,cpp,python,visualstudio,linux,github,raspberrypi,matlab" />
@@ -36,7 +38,6 @@
 > "Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine dökümantasyonlar hazırlıyorum."
 
 <p align="left">
-  
   <img src="https://img.shields.io/badge/Signature_Scent-LV_L'Immensité-000000?style=for-the-badge" />
   <a href="https://www.fragrantica.com/member/2373388">
     <img src="https://img.shields.io/badge/Fragrantica-Koleksiyon-734F33?style=for-the-badge" />
@@ -45,20 +46,27 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub İstatistiklerim & Analiz
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Notoriety19&show_icons=true&theme=radical&hide_border=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notoriety19&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Notoriety19&theme=radical" />
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Notoriety19&theme=radical" width="100%" />
+</p>
+
+---
 
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Notoriety19/Notoriety19/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Game" />
 </p>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Notoriety19&color=blue&style=flat-square&label=DATA+TRAFFIC" alt="Visitor Counter" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" />
-</p>****
+</p>

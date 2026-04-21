@@ -23,12 +23,13 @@
 
 ### 🛠️ Teknik Yetkinlikler & Araçlar
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,visualstudio,linux,github,discord" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,visualstudio,linux,github" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Industrial_Automation-FFD700?style=flat-square&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/PLC_Programming-005C99?style=flat-square&logo=codementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electrical_Maintenance-FF0000?style=flat-square&logo=lightning&logoColor=white" />
   <img src="https://img.shields.io/badge/SolidWorks-DA1F26?style=flat-square&logo=dassaultsystemes&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoCAD-E52424?style=flat-square&logo=autodesk&logoColor=white" />
 </p>
@@ -36,14 +37,14 @@
 ---
 
 ### 🧪 Koku Kültürü & Parfümeri
-> Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine dökümantasyonlar hazırlıyorum.
+> Teknik disiplini duyusal analizle birleştiriyorum. [cite_start]Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine dökümantasyonlar hazırlıyorum. [cite: 3, 5]
 
 ---
 
 ### 🚀 Nelerle Uğraşıyorum?
-- 🏭 **Endüstriyel Otomasyon:** Saha tecrübesi ve pano montajı süreçlerini takip ediyorum.
-- 🤖 **Mekatronik:** Robotik sistemler ve akıllı mekanizmalar üzerine projeler geliştiriyorum.
-- 🧪 **Dökümantasyon:** [Parfüm Kültür Rehberi](https://github.com/Notoriety19/parfum-kultur-rehberi) üzerinde çalışıyorum.
+- [cite_start]🏭 **Endüstriyel Otomasyon:** Saha tecrübesi ve pano montajı süreçleri. [cite: 1, 9]
+- [cite_start]🤖 **Mekatronik:** Robotik sistemler ve akıllı mekanizmalar üzerine çalışmalar. [cite: 1, 9]
+- [cite_start]🧪 **Dökümantasyon:** [Parfüm Kültür Rehberi](https://github.com/Notoriety19/parfum-kultur-rehberi) projem. [cite: 4, 7]
 
 ---
 

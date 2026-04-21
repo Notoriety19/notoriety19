@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/bayram-buğra-yiğit">
+  <a href="[https://linkedin.com/in/bayram-buğra-yiğit](https://www.linkedin.com/in/bayram-bu%C4%9Fra-yi%C4%9Fit-037341291/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

@@ -57,9 +57,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Notoriety19&theme=radical" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Notoriety19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="450" />
 </p>
-
 ---
 
 ### 🐍 Contribution Snake

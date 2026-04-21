@@ -1,6 +1,10 @@
 # <p align="center">👋 Selam, ben Buğra Yiğit</p>
 
 <p align="center">
+  <img src="https://i.pinimg.com/736x/20/51/5a/20515a7b2245acbe28457e11afaa6ddb.jpg" alt="Buğra Yiğit Profile Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=Mechatronics%20&%20Fragrance%20Analysis&fontSize=40" />
 </p>
 

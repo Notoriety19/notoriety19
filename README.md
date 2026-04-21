@@ -16,20 +16,8 @@
 
 ### 🎧 Şu An Ne Dinliyorum?
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://novatorem-spotify-public-api.vercel.app/api/run?user=YOUR_SPOTIFY_ID" alt="Spotify" />
-  </a>
+  <img src="https://novatorem-spotify-public-api.vercel.app/api/run?user=315ste54yejjcnd3oosblgchxejq" alt="Spotify" />
 </p>
-
----
-
-### 💻 Setup & Gear
-| Equipment | Model / Settings |
-| :--- | :--- |
-| **Mouse** | 1600 DPI / 0.130 Sens (Valorant Optimized) |
-| **Focus** | Industrial Automation & Mechatronics |
-| **Favorite Scent** | Dior Fève Délicieuse |
-| **Education** | Balıkesir University - 2nd Year |
 
 ---
 
@@ -48,11 +36,18 @@
 ---
 
 ### 🧪 Koku Kültürü & Parfümeri
-> Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine derinlemesine çalışmalar yapıyorum. 
+> Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine dökümantasyonlar hazırlıyorum.
 
 ---
 
-### 📈 İstatistikler & Aktivite
+### 🚀 Nelerle Uğraşıyorum?
+- 🏭 **Endüstriyel Otomasyon:** Saha tecrübesi ve pano montajı süreçlerini takip ediyorum.
+- 🤖 **Mekatronik:** Robotik sistemler ve akıllı mekanizmalar üzerine projeler geliştiriyorum.
+- 🧪 **Dökümantasyon:** [Parfüm Kültür Rehberi](https://github.com/Notoriety19/parfum-kultur-rehberi) üzerinde çalışıyorum.
+
+---
+
+### 📈 GitHub İstatistiklerim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Notoriety19&show_icons=true&theme=radical&hide_border=true" width="400" />
 </p>

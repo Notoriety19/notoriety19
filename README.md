@@ -52,11 +52,7 @@
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Notoriety19&theme=radical" />
-  ### 🗺️ Dünyada Nerelerdeyiz?
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Notoriety19&theme=radical" />
-</p>
-</p>
+
 
 ### 🐍 Contribution Snake
 <p align="center">

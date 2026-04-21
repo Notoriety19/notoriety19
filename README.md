@@ -36,16 +36,12 @@
 > "Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine dökümantasyonlar hazırlıyorum."
 
 <p align="left">
-  <img src="https://www.dekantparfum.com.tr/idea/hs/04/myassets/products/520/limmensite.jpg?revision=1775727314" alt="Louis Vuitton L'Immensité" wid="60" hei=60" />
-  <img src="https://img.shields.io/badge/Signature_Scent-LV_L'Immensité-000000?style=for-the-badge&logo=generic&logoColor=white" />
-</p>
-
-<p align="left">
+  <img src="https://www.dekantparfum.com.tr/idea/hs/04/myassets/products/520/limmensite.jpg?revision=1775727314" alt="Louis Vuitton L'Immensité" height="45" />
+  <img src="https://img.shields.io/badge/Signature_Scent-LV_L'Immensité-000000?style=for-the-badge" />
   <a href="https://www.fragrantica.com/member/2373388">
-    <img src="https://img.shields.io/badge/Fragrantica-Koleksiyonu_İncele-734F33?style=for-the-badge&logo=generic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fragrantica-Koleksiyon-734F33?style=for-the-badge" />
   </a>
 </p>
-
 
 ---
 

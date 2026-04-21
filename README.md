@@ -4,15 +4,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=Mechatronics%20&%20Fragrance%20Analysis&fontSize=40" />
 </p>
 
-### 🏆 GitHub Başarımlarım
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Notoriety19&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Mechatronics-Balıkesir%20University-blue?style=for-the-badge&logo=engineering" />
   <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Robotics-orange?style=for-the-badge&logo=arduino" />
   <img src="https://img.shields.io/badge/Interest-Fragrance%20Collector-purple?style=for-the-badge&logo=superuser" />
+</p>
+
+---
+
+### 📈 Yazılım Geliştirme Akışı
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Notoriety19&theme=radical&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -54,7 +56,7 @@
 ### 📊 GitHub İstatistiklerim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Notoriety19&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notoriety19&layout=compact&theme=radical&hide_border=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notoriety19&layout=compact&theme=radical&hide_border=true&count_private=true" width="300" />
 </p>
 
 ---

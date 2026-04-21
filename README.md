@@ -40,6 +40,13 @@
 - 🤖 **Mekatronik:** Robotik sistemler ve akıllı mekanizmalar.
 - 🖨️ **3D Tasarım:** Bambu Lab A1 Mini ile prototipleme.
 
+- ### 🛠️ Teknik Yetkinlikler & Araçlar
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,solidworks,autocad,visualstudio" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Notoriety19&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </p>
+### 🐍 Katkı Yılanım
+![github contribution grid snake animation](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=Notoriety19&color_snake=orange&dots_color=222222&bg_color=000000)

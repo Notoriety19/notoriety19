@@ -61,6 +61,17 @@
 </p>
 ---
 
+### 💣 Mayın Tarlası Oyna! (Minigame)
+Bakalım mayınlara basmadan tarlayı temizleyebilecek misin? Bir kareye tıkla ve "Submit issue" diyerek hamleni yap!
+
+<p align="center">
+  <a href="https://github.com/Notoriety19/Notoriety19/issues/new?title=Minesweeper%3A%201%2C1">
+    <img src="https://minesweeper-readme.vercel.app/api?user=Notoriety19" alt="Minesweeper" />
+  </a>
+</p>
+
+---
+
 ### 🐍 My GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Notoriety19/Notoriety19/output/github-contribution-grid-snake.svg" alt="Snake Game" />

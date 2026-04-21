@@ -18,7 +18,10 @@
     <img src="https://img.shields.io/badge/Spotify-Beni_Takip_Et-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
+---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Notoriety19&theme=radical" />
+</p>
 ---
 
 ### 🛠️ Teknik Yetkinlikler & Araçlar

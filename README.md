@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/Signature_Scent-LV_L'Immensité-000000?style=for-the-badge" />
   <a href="https://www.fragrantica.com/member/2373388">
     <img src="https://img.shields.io/badge/Fragrantica-Koleksiyon-734F33?style=for-the-badge" />
-    <img src="https://www.dekantparfum.com.tr/idea/hs/04/myassets/products/520/limmensite.jpg?revision=1775727314" alt="Louis Vuitton L'Immensité" height="150" />
   </a>
 </p>
 

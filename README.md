@@ -10,14 +10,8 @@
   <a href="https://www.linkedin.com/in/bayram-bu%C4%9Fra-yi%C4%9Fit-037341291/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-### 🎧 Şu An Ne Dinliyorum?
-<p align="center">
   <a href="https://open.spotify.com/user/315ste54yejjcnd3oosblgchxejq">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=315ste54yejjcnd3oosblgchxejq&cover_image=true&theme=onboarding&show_offline=true&background_color=121212&interact=true" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 

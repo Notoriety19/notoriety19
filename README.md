@@ -59,3 +59,17 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Notoriety19&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </p>
+---
+
+### ♟️ Stockfish Bot'a Karşı Oyna!
+Profilime giren herkes beyaz taşlarla hamle yapabilir. Siyah taşları (benim yerime) **Stockfish Engine** yönetecek. Bakalım botu yenebilecek misiniz?
+
+<p align="center">
+  <a href="https://github.com/Notoriety19/Notoriety19/issues/new?title=Chess%3A%20Move%20[MOVE_HERE]&body=Sadece%20linke%20tıklayın%20ve%20'Submit%20new%20issue'%20deyin.">
+    <img src="https://github-chess-board.vercel.app/api/view?username=Notoriety19" alt="Satranç Tahtası" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Hamle yapmak için beyaz bir taşa ve gitmek istediğin kareye tıkla, ardından açılan sayfada "Submit new issue" butonuna bas!</i>
+</p>

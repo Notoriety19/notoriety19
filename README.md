@@ -34,6 +34,19 @@
 
 ### 🧪 Koku Kültürü & Parfümeri
 > "Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan ekolünden gelen bir koku hafızası üzerine dökümantasyonlar hazırlıyorum."
+---
+
+### 🧪 Koku Kültürü & Duyusal Analiz
+> "Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine dökümantasyonlar hazırlıyorum."
+
+<p align="left">
+  <a href="https://www.fragrantica.com/member/2373388">
+    <img src="https://img.shields.io/badge/Fragrantica-Koleksiyonu_İncele-734F33?style=for-the-badge&logo=fragrantica&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Signature_Scent-Dior_Fève_Délicieuse-D4AF37?style=for-the-badge" />
+</p>
+
+*Fragrantica üzerinde aktif olarak niş ve lüks parfümler hakkında teknik incelemeler yazıyorum.*
 
 ---
 
@@ -45,7 +58,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Notoriety19&theme=radical" />
 </p>
----
 
 ### 🐍 Contribution Snake
 <p align="center">

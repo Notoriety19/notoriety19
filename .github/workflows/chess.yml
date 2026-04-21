@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v3
         
       - name: Play Chess
-        uses: marcizhu/github-chess@v1.2.1
+        uses: Claricast/github-chess@v1.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           chess_bot: true

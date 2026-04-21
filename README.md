@@ -10,14 +10,7 @@
   <img src="https://img.shields.io/badge/Interest-Fragrance%20Collector-purple?style=for-the-badge&logo=superuser" />
 </p>
 
----
 
-### 📈 Yazılım Geliştirme Akışı
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Notoriety19&theme=radical&hide_border=true&area=true" width="100%" />
-</p>
-
----
 
 ### 🎵 Müzik Zevkim
 <p align="center">

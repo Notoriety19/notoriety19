@@ -32,21 +32,23 @@
 
 ---
 
-### 🧪 Koku Kültürü & Parfümeri
-> "Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan ekolünden gelen bir koku hafızası üzerine dökümantasyonlar hazırlıyorum."
 ---
 
-### 🧪 Koku Kültürü & Duyusal Analiz
-> "Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine dökümantasyonlar hazırlıyorum."
+### 🧪 Koku Kültürü & Parfümeri
+> "Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan ekolünden gelen bir koku hafızası üzerine dökümantasyonlar hazırlıyorum."
+
+<p align="left">
+  <img src="https://assets.louisvuitton.com/is/image/lv/1/PP_VP_L/louis-vuitton-l-immensit%C3%A9---perfumes-u-perfumes-lp0052_pm2_front%20view.png?wid=60&hei=60" alt="Louis Vuitton L'Immensité Bottle" />
+</p>
 
 <p align="left">
   <a href="https://www.fragrantica.com/member/2373388">
     <img src="https://img.shields.io/badge/Fragrantica-Koleksiyonu_İncele-734F33?style=for-the-badge&logo=fragrantica&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Signature_Scent-Dior_Fève_Délicieuse-D4AF37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Signature_Scent-LV_L'Immensité-000000?style=for-the-badge" />
 </p>
 
-*Fragrantica üzerinde aktif olarak niş ve lüks parfümler hakkında teknik incelemeler yazıyorum.*
+---
 
 ---
 

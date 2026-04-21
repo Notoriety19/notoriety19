@@ -10,12 +10,12 @@
   <img src="https://img.shields.io/badge/Interest-Fragrance%20Collector-purple?style=for-the-badge&logo=superuser" />
 </p>
 
+---
+
+### 🎵 Şu An Ne Dinliyorum?
 <p align="center">
-  <a href="https://www.linkedin.com/in/bayram-bu%C4%9Fra-yi%C4%9Fit-037341291/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/notoriety19">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="https://open.spotify.com/user/312h4q2fxt52skvef3o33is32g4y">
+    <img src="https://novatorem-spotify-widget.vercel.app/api/now-playing?uid=312h4q2fxt52skvef3o33is32g4y&theme=dark" alt="Spotify Now Playing" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 ### 🛠️ Teknik Yetkinlikler & Araçlar
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,visualstudio,linux,github" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,visualstudio,linux,github,raspberrypi,matlab" />
 </p>
 
 <p align="left">
@@ -40,29 +40,15 @@
 
 ---
 
-### 🚀 Nelerle Uğraşıyorum?
-- 🏭 **Endüstriyel Otomasyon:** Saha tecrübesi ve pano montajı süreçleri.
-- 🤖 **Mekatronik:** Robotik sistemler ve akıllı mekanizmalar.
-- 🧪 **Dökümantasyon:** [Parfüm Kültür Rehberi](https://github.com/Notoriety19/parfum-kultur-rehberi) projem.
-
----
-
-### 📈 İstatistikler & Aktivite
+### 📈 GitHub İstatistiklerim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Notoriety19&show_icons=true&theme=radical&hide_border=true" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Notoriety19&theme=radical&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Notoriety19&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notoriety19&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
 
 ---
 
-### 🐍 YILAN 
+### 🐍 My GitHub Contribution Snake
 <p align="center">
   <img src="https://github.com/Notoriety19/Notoriety19/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Game" />
 </p>

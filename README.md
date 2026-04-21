@@ -65,3 +65,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Notoriety19/Notoriety19/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" />
+</p>

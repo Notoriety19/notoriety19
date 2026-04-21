@@ -1,7 +1,7 @@
 # <p align="center">👋 Selam, ben Buğra Yiğit</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome!%20&%20Engineering%20Fragrances&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=Mechatronics%20&%20Fragrance%20Analysis&fontSize=40" />
 </p>
 
 <p align="center">
@@ -37,13 +37,23 @@
 
 ### 🧪 Koku Kültürü & Parfümeri
 > Teknik disiplini duyusal analizle birleştiriyorum. Vedat Ozan'dan aldığım eğitimle koku hafızası ve parfümeri sanatı üzerine dökümantasyonlar hazırlıyorum.
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHdtbmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTfX8V2V6f0I1O/giphy.gif" width="100">
+
+---
+
+### 🚀 Nelerle Uğraşıyorum?
+- 🏭 **Endüstriyel Otomasyon:** Saha tecrübesi ve pano montajı süreçleri.
+- 🤖 **Mekatronik:** Robotik sistemler ve akıllı mekanizmalar.
+- 🧪 **Dökümantasyon:** [Parfüm Kültür Rehberi](https://github.com/Notoriety19/parfum-kultur-rehberi) projem.
 
 ---
 
 ### 📈 İstatistikler & Aktivite
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Notoriety19&show_icons=true&theme=radical&hide_border=true" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Notoriety19&theme=radical&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="right">

@@ -1,0 +1,19 @@
+name: GitHub Chess Bot
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  chess:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Play Chess (Bot Mode)
+        uses: marcizhu/github-chess@v1.2.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          chess_bot: true
+          bot_difficulty: 3

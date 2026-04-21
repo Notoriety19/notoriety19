@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/bayram-bu%C4%9Fra-yi%C4%9Fit-037341291/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/315ste54yejjcnd3oosblgchxejq">
+  <a href="https://open.spotify.com/user/notoriety19">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
@@ -59,25 +59,14 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Notoriety19&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </p>
+
 ---
 
-### 💣 Mayın Tarlası Oyna!
-Profilimi mayınlardan temizlememe yardım et! Bir kareye tıkla ve açılan sayfada hiçbir şeyi değiştirmeden **"Submit new issue"** butonuna bas.
-
+### 🐍 YILAN 
 <p align="center">
-  <a href="https://github.com/Notoriety19/Notoriety19/issues/new?title=Minesweeper%3A%20init">
-    <img src="https://minesweeper-readme.vercel.app/api?user=Notoriety19" alt="Minesweeper" />
-  </a>
+  <img src="https://github.com/Notoriety19/Notoriety19/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Game" />
 </p>
 
-<p align="center">
-  <i>Mayınsız kareleri bul, rekoru kır!</i>
-</p>
-
-### 🐍 My GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Notoriety19/Notoriety19/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" />
 </p>

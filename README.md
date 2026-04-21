@@ -10,13 +10,20 @@
   <img src="https://img.shields.io/badge/Interest-Fragrance%20Collector-purple?style=for-the-badge&logo=superuser" />
 </p>
 
+---
 
-
-### 🎵 Müzik Zevkim
+### 🎮 Gaming & Competitive Performance
 <p align="center">
-  <a href="https://open.spotify.com/user/312h4q2fxt52skvef3o33is32g4y">
-    <img src="https://img.shields.io/badge/Spotify-Beni_Takip_Et-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/CS2-Faceit_Level_10-DE963D?style=for-the-badge&logo=counter-strike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elo-2200+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Valorant-Ascendant_2-04D8A5?style=for-the-badge&logo=valorant&logoColor=white" />
+</p>
+
+---
+
+### 📈 Yazılım Geliştirme Akışı
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Notoriety19&theme=radical&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -45,11 +52,7 @@
 </p>
 
 ---
-<p align="left">
-  <img src="https://img.shields.io/badge/Counter--Strike-Faceit_Level_10-DE963D?style=for-the-badge&logo=counter-strike&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elo-2200+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Valorant-Immortal-FF4655?style=for-the-badge&logo=valorant&logoColor=white" />
-</p>
+
 ### 📊 GitHub İstatistiklerim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Notoriety19&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
